@@ -1,0 +1,17 @@
+body {
+  background: url(../images/android.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+}
+
+#navcontainer ul {
+  margin: 0;
+  padding: 50px;
+  list-style-type: none;
+}
+
+#navcontainer ul li {
+  display: inline;
+  margin: 10px 10px 10px 10px;
+}
